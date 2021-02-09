@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michelle-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/michellediazdev/)
 [![Twitter](https://img.shields.io/twitter/follow/MichDiaz_?style=flat-square&logo=twitter)](https://twitter.com/MichDiaz_)
 [![Telegram](https://img.shields.io/badge/Telegram-ImMichBot-5EC9CC?style=flat-square&logo=telegram)](https://t.me/ImMichBot)
-[![Medium](https://img.shields.io/badge/Medium-MichDiaz_-F3D0D2?style=flat-square&logo=medium)](https://michellediazvi.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-michellediazvi-F3D0D2?style=flat-square&logo=medium)](https://michellediazvi.medium.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-michellediazvi-CD419D?style=flat-square&logo=instagram)](https://www.instagram.com/michellediazvi/)
 
 <br />
