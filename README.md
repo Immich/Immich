@@ -4,17 +4,11 @@
 [![Twitter](https://img.shields.io/twitter/follow/MichDiaz_?style=flat-square&logo=twitter)](https://twitter.com/MichDiaz_)
 [![Telegram](https://img.shields.io/badge/Telegram-ImMichBot-5EC9CC?style=flat-square&logo=telegram)](https://t.me/ImMichBot)
 [![Medium](https://img.shields.io/badge/Medium-michellediazvi-F3D0D2?style=flat-square&logo=medium)](https://michellediazvi.medium.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-michellediazvi-CD419D?style=flat-square&logo=instagram)](https://www.instagram.com/michellediazvi/)
 
 <br />
-<br />
+I am Michelle, I've been working on Machine Learning in areas such as Computer Vision and Natural Language Processing, implementing state of the art algorithms which are nowadays impacting thousands of people in Latin America.
 
-
-I am Michelle, a Mexican Software Engineer 🇲🇽 currently based in 🇨🇭 Switzerland
-
-I've been working on Machine Learning in areas such as Computer Vision and Natural Language Processing, implementing state of the art algorithms which are nowadays impacting thousands of people in Latin America.
-
-I run a [Machine Learning non-profit community](https://www.meetup.com/es/AI-Learners/). We organize workshops and create content to teach fundamentals as well as advanced ML concepts and practices in order to help members to start, develop and apply models in real-life applications.
+I run a [Machine Learning non-profit community](https://www.meetup.com/es/AI-Learners/). We organize workshops and create content to teach fundamentals as well as advanced ML concepts and practices in order to help members to start, develop and apply models in real-life applications, and also [TechnoLatinas](https://technolatinas.org/) a non-profit community to help mitigate the gender gap in STEAM careers.
 
 
 ### Languages and tools:
